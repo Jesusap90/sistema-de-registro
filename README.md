@@ -7,3 +7,5 @@ Para ejecutar el sistema debes poner:
 ```npm install react```
 
 <h2>Creamos el index.html</h2>
+
+sistema de registro dos
